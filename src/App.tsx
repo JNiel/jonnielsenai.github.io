@@ -11,7 +11,6 @@ import Experience from './components/Experience';
 import Skills from './components/Skills';
 import Blog from './components/Blog';
 import Footer from './components/Footer';
-import AIChat from './components/AIChat';
 
 export default function App() {
   return (
@@ -25,7 +24,6 @@ export default function App() {
         <Blog />
       </main>
       <Footer />
-      <AIChat />
     </div>
   );
 }
